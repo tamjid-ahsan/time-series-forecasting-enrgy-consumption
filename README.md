@@ -10,7 +10,7 @@ PJM Interconnection LLC (PJM) is a regional transmission organization (RTO) in t
 The hourly power consumption data comes from PJM's website and are in megawatts (MW).
 
 The regions have changed over the years so data may only appear for certain dates per region.
- 
+
 # Next Steps
 - try out different models
     - Prophet | NeuralProphet [*](https://www.kaggle.com/code/antonmurashko/time-series-forecasting-with-prophet-yt) [1](https://bobrupakroy.medium.com/yes-our-favorite-fbprophet-is-back-with-multivariate-forecasting-785fbe412731) [2](https://www.microprediction.com/blog/prophet)
@@ -21,7 +21,8 @@ The regions have changed over the years so data may only appear for certain date
     - AutoARIMA
     - Tsfresh | Darts | Kats [1](https://www.analyticsvidhya.com/blog/2022/05/5-python-libraries-for-time-series-analysis/) [2](https://towardsdatascience.com/3-unique-python-packages-for-time-series-forecasting-2926a09aaf5b)
 - More robust cross validation for models
-- Add more features (weather forecast data, holidays, major events, season)
+- feature selection {keep log of changes}
+- Add more features (weather forecast data, ~~holidays~~, major events, ~~season~~)
 
 # Disclaimer
 This project is heavily influenced by [`ROB MULLA`](https://www.kaggle.com/code/robikscube/time-series-forecasting-with-machine-learning-yt). [[YouTube - p1](https://www.youtube.com/watch?v=vV12dGe_Fho), [Youtube - p2](https://www.youtube.com/watch?v=z3ZnOW-S550) as of June 17, 2023.]
