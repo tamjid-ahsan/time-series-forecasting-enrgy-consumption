@@ -16,7 +16,7 @@ The regions have changed over the years so data may only appear for certain date
     - Prophet | NeuralProphet [*](https://www.kaggle.com/code/antonmurashko/time-series-forecasting-with-prophet-yt) [1](https://bobrupakroy.medium.com/yes-our-favorite-fbprophet-is-back-with-multivariate-forecasting-785fbe412731) [2](https://www.microprediction.com/blog/prophet)
     - ANN: LSTM
     - ARIMA models; and its extensions like SARIMA, SARIMAX
-    - scikit-learn based NN
+    - scikit-learn based NN & sktime
     - LightGBM
     - AutoARIMA
     - Tsfresh | Darts | Kats [1](https://www.analyticsvidhya.com/blog/2022/05/5-python-libraries-for-time-series-analysis/) [2](https://towardsdatascience.com/3-unique-python-packages-for-time-series-forecasting-2926a09aaf5b)
